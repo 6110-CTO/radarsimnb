@@ -1,0 +1,9 @@
+{
+    "name": "Ubuntu 22.04 with Python 3.9",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:3.9-22.04",
+    "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-pyright.pyright"
+    ]
+}
